@@ -3,15 +3,7 @@ The framework is designed to validate the following scenarios via file cloud API
 
 *Note*: Please update the `GUEST_USERNAME` and `GUEST_PASSWORD` details in `env\.env.secret` before proceed.
 
-1. Groups and users:
-* Accounting: Henderson Nakashima, Biserka Wilkie, Giltbert Thatcher, Octavia Blanchard, Dawid Morel
-* Operations: Zülfikar Aafjes, Vlasi Szilágyi, Madelyn Donne, Şule Zima, Rehema Barr
-* Engineering: Awee Murdoch, Tsholofelo Boer, Mari Winthrop
-* Consultants: Dragoslav Echevarría, Kaley Petrov
-
-2. Ensure that .docx files can be stored in the My Files section of FileCloud for a user and that multiple versions are stored, fetched, and updated.
-
-3. Approach and strategy to demonstrate that multiple users can upload a file concurrently.(<em>only the code template is availale in tests folder, strategy is defined in separate word file</em>)
+Refer this [swagger](https://fcapi.filecloud.com/?urls.primaryName=version%2023.1#/) for more details
 
 ## Install
 1. Install the latest version of Python depending on the OS.

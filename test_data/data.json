@@ -1,0 +1,27 @@
+{
+  "user_group":{
+
+    "Accounting": ["Henderson", "Nakashima", "Biserka Wilkie", "Giltbert Thatcher","Octavia Blanchard","Dawid Morel"],
+  
+    "Operations": [
+      "Zulfikar Aafjes",
+      "Vlasi Szilagyi",
+      "Madelyn Donne",
+      "Sule Zima",
+      "Rehema Barr"
+    ],
+    "Engineering": [
+      "Awee Murdoch",
+      "Tsholofelo Boer",
+      "Mari Winthrop"
+    ],
+    "Consultants": [
+      "Dragoslav",
+      "Echevarria",
+      "Kaley Petrov"
+    ]
+  },
+ 
+    "exist_email" : "henderson@email.com"
+  
+}
